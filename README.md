@@ -3,8 +3,8 @@
 A simple and efficient GitHub Issues Tracker built with vanilla web technologies. This project allows users to view, search, and filter issues fetched from a live API.
 
 ## 🚀 Live Demo & Repository
-- **Live Site:** [Insert Live Link Here]
-- **GitHub Repository:** [Insert Repository Link Here]
+- **Live Site:**  https://bredest.github.io/B13-kanil-Assignmen--5/ 
+- **GitHub Repository:** https://github.com/bredest/B13-kanil-Assignmen--5 
 
 ---
 
